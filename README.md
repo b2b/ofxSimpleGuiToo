@@ -23,7 +23,7 @@ Dependencies
 
 Compatibility
 ------------
-OF0072
+## OF 0.9.8
 
 
 Known issues
@@ -32,6 +32,9 @@ none
 
 Version history
 ------------
+### v1.5    21/10/2017
+compatible with OF 0.9.8 compiled and tested on Ubintu 16.04 qtCreator 4.1.0 Based on Qt 5.7.0 (GCC 4.9.1 20140922 (Red Hat 4.9.1-10), 64 bit)
+
 ### v1.4    23/09/2012
 - compatible with OF0072
 - renamed (uppercase) MSA namespace to (lowercase) msa. (kept MSA as an alias for backwards compatibility)
