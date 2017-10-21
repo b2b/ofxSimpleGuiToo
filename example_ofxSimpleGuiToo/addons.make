@@ -1,0 +1,3 @@
+ofxMSAInteractiveObject
+ofxSimpleGuiToo
+ofxXmlSettings
